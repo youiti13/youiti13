@@ -2,10 +2,6 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
 
-**youiti13/youiti13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 -  Atualmente estou estudando Analise e Desenvolvimento de Sistemas na FATEC Zona Leste.
 -  Atualmente estou aprendendo Logica de Programação com JavaScript.
 -  Estou buscando minha primeira oportunidade na area de tecnologia como estagiario ou junior.
@@ -13,11 +9,12 @@ Here are some ideas to get you started:
 -  Moro em São Paulo, SP
 
 ## Ferramentas e Tecnologias
-  <i class="devicon-javascript-plain colored" width="40" height="40"></i>
-  <i class="devicon-html5-plain" width="40" height="40"></i>
-  <i class="devicon-css3-plain" width="40" height="40"></i>
-  <i class="devicon-git-plain" width="40" height="40"></i>
-  <i class="devicon-github-original" width="40" height="40"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40"  />
+
 
 ## Estou aprendendo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" />
