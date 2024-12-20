@@ -20,5 +20,5 @@ Here are some ideas to get you started:
   <i class="devicon-github-original" width="40" height="40"></i>
 
 ## Estou aprendendo
-  <i class="devicon-python-plain" width="40" height="40"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" />
           
