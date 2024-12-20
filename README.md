@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá, me chamo Vitor Youiti ! 
+## Bem vindo ao meu perfil GitHub 👋
 
-<!--
+
 **youiti13/youiti13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  Atualmente estou estudando Analise e Desenvolvimento de Sistemas na FATEC Zona Leste.
+-  Atualmente estou aprendendo Logica de Programação com JavaScript.
+-  Estou buscando minha primeira oportunidade na area de tecnologia como estagiario ou junior.
+-  Como entrar em contato comigo: www.linkedin.com/in/vitor-youiti-6985a1204
+-  Moro em São Paulo, SP
+
+## Ferramentas e Tecnologias
+  <i class="devicon-javascript-plain colored"></i>
+  <i class="devicon-html5-plain"></i>
+  <i class="devicon-css3-plain"></i>
+  <i class="devicon-git-plain"></i>
+  <i class="devicon-github-original"></i>
+
+## Estou aprendendo
+  <i class="devicon-python-plain"></i>
+          
