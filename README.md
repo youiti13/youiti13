@@ -13,12 +13,12 @@ Here are some ideas to get you started:
 -  Moro em São Paulo, SP
 
 ## Ferramentas e Tecnologias
-  <i class="devicon-javascript-plain colored"></i>
-  <i class="devicon-html5-plain"></i>
-  <i class="devicon-css3-plain"></i>
-  <i class="devicon-git-plain"></i>
-  <i class="devicon-github-original"></i>
+  <i class="devicon-javascript-plain colored" width="40" height="40"></i>
+  <i class="devicon-html5-plain" width="40" height="40"></i>
+  <i class="devicon-css3-plain" width="40" height="40"></i>
+  <i class="devicon-git-plain" width="40" height="40"></i>
+  <i class="devicon-github-original" width="40" height="40"></i>
 
 ## Estou aprendendo
-  <i class="devicon-python-plain"></i>
+  <i class="devicon-python-plain" width="40" height="40"></i>
           
